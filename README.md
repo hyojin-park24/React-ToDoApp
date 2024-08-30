@@ -22,8 +22,8 @@
       ```
       e. IntelliJ 터미널에서 Github 로 푸시하기
        ```
-         git push -u origin main
-      ```
+           git push -u origin main
+       ```
 
 ### 1. 리포지토리 생성시 README.md 생성하지 않기
 #### 깃허브 리포지토리에서 README.md 를 생성해버리면, 이미 커밋이 되어 branch 가 생성이 된 것이므로
