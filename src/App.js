@@ -1,5 +1,6 @@
 import React, {useState}  from 'react';
 import './App.css';
+// react component
 
 export default function App() {
         // react state
